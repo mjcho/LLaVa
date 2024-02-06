@@ -26,10 +26,13 @@ checkpoints
 ckpts*
 
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 
 # DevContainer
 !.devcontainer/*
 
 # Demo
 serve_images/
+
+# Data
+images/
